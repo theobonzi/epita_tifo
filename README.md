@@ -33,6 +33,6 @@ pip install -r requirements.txt
 ### Lancement du Projet
 Pour démarrer l'interface de traitement d'images, exécutez :
 ```bash
-python tifo.py
+python src/tifo.py
 ```
 
