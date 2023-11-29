@@ -1,4 +1,4 @@
-# Traitement d'Images
+# 🖼️ Traitement d'Images
 
 ## Introduction
 Ce projet, réalisé dans le cadre du cours de Traitement d'images à EPITA, implémente une variété de filtres appliqués en temps réel sur le flux vidéo de la caméra. Il offre une interface utilisateur pour changer l'ordre des filtres cumulables, allant des filtres simples aux convolutions plus complexes.
