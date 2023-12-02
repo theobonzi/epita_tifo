@@ -3,6 +3,8 @@
 ## Introduction
 Ce projet, réalisé dans le cadre du cours de Traitement d'images à EPITA, implémente une variété de filtres appliqués en temps réel sur le flux vidéo de la caméra. Il offre une interface utilisateur pour changer l'ordre des filtres cumulables, allant des filtres simples aux convolutions plus complexes.
 
+[image.pdf](https://github.com/theobonzi/epita_tifo/files/13537065/image.pdf)
+
 ## Fonctionnalités
 - **Filtres Simples** : Niveaux de gris, Binarisation, Égalisation d'histogramme, Négatif, Pixelisation.
 - **Filtres de Détection de Bords** : Sobel, Laplace, Prewitt
